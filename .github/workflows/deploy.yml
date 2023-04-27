@@ -1,6 +1,7 @@
 on:
   workflow_dispatch:
 
+
 name: Azure Bicep Deploy
 jobs:
   build-and-deploy:
